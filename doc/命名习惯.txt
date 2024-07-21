@@ -1,0 +1,22 @@
+⚫●◯○◦◉◍◑◙◎◌
+⚫数组
+left # 左指针
+right # 右指针
+mid # 二分指针
+
+⚫链表
+val # 节点值
+cur # 循环中当前操作的节点
+head   # 头节点
+dummy_head # 虚拟头节点
+pre # 前节点
+temp # 临时变量节点，如改变next前的next
+⚫栈与队列
+
+stack # 栈
+heap # 堆
+queue # 队列（deque是底层容器）
+pri_que # 小顶堆
+
+⚫回溯算法
+path # 路径集合数组
